@@ -1,2 +1,2 @@
 # Tehnici-web-proiect
-Aplicatie pentru Tehnici web realizata conform cerintelor din proiect
+Aplicatie pentru Tehnici web realizata pentru a indeplini cerintele din proiect.
